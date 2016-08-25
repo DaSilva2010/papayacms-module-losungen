@@ -1,0 +1,10 @@
+<?xml version="1.0"  encoding="ISO-8859-1" ?>
+  <modulegroup>
+  <name>Losungen</name>
+  <description>Modul zur Ausgabe der Losung des aktuellen Tages.</description>
+  <modules>
+    <module type="box" guid="7d035877e1a546d09635dd220889462e" name="Losungen Box" class="actionbox_losungen" file="actbox_losungen.php">Losungen Box</module>
+  </modules>
+  <tables>
+  </tables>
+</modulegroup>

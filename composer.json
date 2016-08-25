@@ -1,0 +1,15 @@
+{
+  "name": "papaya/module-losungen",
+  "minimum-stability": "dev",
+  "extra" : {
+    "document-root" : "htdocs/"
+  },
+  "require": {
+    "papaya/cms-core": "*"
+  },
+  "require-dev": {
+    "papaya/cms-administration": "*",
+    "papaya/template-responsive": "*",
+    "papaya/theme-dynamic": "*"
+  }
+}
